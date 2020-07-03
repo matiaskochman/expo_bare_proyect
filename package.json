@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "expo-location": "^8.1.0",
+    "expo-task-manager": "^8.1.0",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-unimodules": "^0.9.1"
